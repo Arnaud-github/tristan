@@ -5,7 +5,7 @@ TRISTAN was built in the UK in 1949 as a refueller for the <a href="https://en.w
 
 <figure>
 <img src="FIGURES/Tristan_Barking_August2026.jpg" alt=" " width="400" height="400">
-<figcaption> Leaving the Roding for dry dock in Eel Pie Island (August 2026)  </figcaption>
+<figcaption> Leaving the Roding for dry dock (August 2026)  </figcaption>
 </figure>
 
 <br>
