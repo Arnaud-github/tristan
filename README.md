@@ -11,8 +11,10 @@ This page is to share our boat TRISTAN's rich history. She was built in the UK i
 <br>
 <br>
 <br>
-She is listed at the <a href="https://www.nationalhistoricships.org.uk/register/2375/tristan" target="_blank">National Historic ship register</a>. You can see <a href="https://arnaud-github.github.io/tristan/REFIT.html" target="_blank">here </a> how she was converted to a houseboat in 2015. 
+She is listed at the <a href="https://www.nationalhistoricships.org.uk/register/2375/tristan" target="_blank">National Historic ship register</a>. You can see <a href="https://arnaud-github.github.io/tristan/REFIT.html" target="_blank">here </a> how she was converted to a houseboat in 2015. She passed her first <a href="https://arnaud-github.github.io/tristan/DRYDOCK2021.html" target="_blank">dry dock</a> in Eel Pie Island with flying colours!
 
 <br>
-<a href="https://www.nhm.ac.uk/our-science/people/andrea-waeschenbach.html" target="_blank"> Andrea </a>, a marine biologist at the Natural History Museum in London, and Arnaud, an oceanographer at Imperial College, are her proud owners.
+<br>
+<br>
+<a href="https://www.nhm.ac.uk/our-science/people/andrea-waeschenbach.html" target="_blank"> Andrea </a>, a marine biologist at the Natural History Museum in London, and <a href="https://profiles.imperial.ac.uk/a.czaja" target="_blank"> Arnaud </a>, an oceanographer at Imperial College, are her proud owners.
 
