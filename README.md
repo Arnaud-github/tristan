@@ -1,4 +1,6 @@
 # tristan
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <style>
   /* Container for all figures */
@@ -43,4 +45,4 @@ This page is to share our boat TRISTAN's rich history. She was built in the UK i
 <br>
 Andrea, a marine biologist at the Natural History Museum in London, and Arnaud, an oceanographer at Imperial College, are her proud owners.
 
-
+</html>
